@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFetchHome", "JFetchHome\JFetchHome.csproj", "{3203072D-6305-416A-8093-7D754C275126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFetchExcelHome", "JFetchExcelHome\JFetchExcelHome.csproj", "{C2E45AE7-3206-49DB-8C81-F2F4763AEBEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3203072D-6305-416A-8093-7D754C275126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3203072D-6305-416A-8093-7D754C275126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3203072D-6305-416A-8093-7D754C275126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E45AE7-3206-49DB-8C81-F2F4763AEBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E45AE7-3206-49DB-8C81-F2F4763AEBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E45AE7-3206-49DB-8C81-F2F4763AEBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E45AE7-3206-49DB-8C81-F2F4763AEBEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
